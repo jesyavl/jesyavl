@@ -27,8 +27,13 @@ Olá, eu sou a Jésya! Uma apaixonada estudante de Ciência de Dados.
 
 ## Stats
 <!-- GithubStats -->
-![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=jesyavl&show_icons=true&theme=tokyonight)
+<div align="center">
+  
+![](https://github-readme-stats.vercel.app/api?username=jesyavl&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=jesyavl&theme=react&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jesyavl&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+</div>
 
 
 
