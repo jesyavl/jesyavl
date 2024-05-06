@@ -21,39 +21,43 @@ Olá, eu sou a Jésya! Uma apaixonada estudante de Ciência de Dados.
 </details>
 
 <!-- Links -->
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCLiXDXjYHphnO2_U6nCuXHw)
+[![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jesyav.delima@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jesyavl/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesyadelima/)
 
+## Stats
 <!-- GithubStats -->
 ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=jesyavl&show_icons=true&theme=tokyonight)
 
 
-<!-- Portfolio -->
-## Portfolio:
-- [Python - nome_projeto](link)
-- [Google Data Studio - nome_projeto](link)
-- [SQL - nome_projeto](link)
-- [Power BI - nome_projeto](link)
+
+
 
 ## Skills
-<!-- Skills: Programming Languages -->
+<!-- Skills: Linguagem de programação -->
   <div style="flex-basis: 48%;">
-    <h3>Programming Languages</h3>
-    <img align="center" alt="Js" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg">
-    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+    <h3>Linguagem de programação</h3>
+    <img align="center" alt="SQL" height="30" width="35" 
+src="https://github.com/jesyavl/jesyavl/assets/159136515/55a50ca9-38ad-40d5-b230-1afefce813b4">
     <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  </div>
 
-  <!-- Skills: Tools & Frameworks -->
+  </div>
+  
+
+  <!-- Skills: Ferramentas -->
   <div style="flex-basis: 48%;">
-    <h3>Tools & Frameworks</h3>
+    <h3>Ferramentas</h3>
+    <img align="center" alt="Js" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg">
     <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
     <img align="center" alt="Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg">
     <img align="center" alt="Chris-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+    <img align="center" alt="Js" height="30" width="32" src="https://github.com/jesyavl/jesyavl/assets/159136515/5e74fff1-6627-49ff-ac22-10f2578571e3">
+    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+    <img align="center" alt="Js" height="30" width="32" src="https://mailmeteor.com/logos/assets/PNG/Microsoft_Office_Excel_Logo_256px.png">
   </div>
+
   
-  <!-- Skills: Libraries -->
+  <!-- Skills: Bibliotecas -->
   <div style="flex-basis: 48%;">
     <h3>Libraries</h3>
     <img align="center" alt="Numpy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
