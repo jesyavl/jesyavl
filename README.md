@@ -34,8 +34,9 @@ Olá, eu sou a Jésya! Uma apaixonada estudante de Ciência de Dados.
 
 </div>
 
-
-
+<!-- Portfolio -->
+## Portfolio:
+- [Python - Machine Learning](https://github.com/jesyavl/ML01_telecon_churn)
 
 ## Skills
 <!-- Skills: Linguagem de programação -->
