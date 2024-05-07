@@ -37,7 +37,7 @@ Olá, eu sou a Jésya! Uma apaixonada estudante de Ciência de Dados.
 <!-- Portfolio -->
 ## Portfolio:
 - [Python - Machine Learning](https://github.com/jesyavl/ML01_telecon_churn)
-- [Python - Redução de dimensionalidade](https://github.com/jesyavl/ML02_reducao_dimensionalidade)
+- [Python - Desafios na Análise de Dados de Alta Dimensionalidade](https://github.com/jesyavl/ML02_reducao_dimensionalidade)
 
 ## Skills
 <!-- Skills: Linguagem de programação -->
