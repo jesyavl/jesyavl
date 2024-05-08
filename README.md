@@ -36,7 +36,6 @@ Olá, eu sou a Jésya! Uma apaixonada estudante de Ciência de Dados.
 
 <!-- Portfolio -->
 ## Portfolio:
-- [Python - Clustering: Recomendando músicas com K-Means](https://github.com/jesyavl/ML04_clustering_recomendacao_musica)
 - [Python - Machine Learning](https://github.com/jesyavl/ML01_telecon_churn)
 - [Python - Desafios na Análise de Dados de Alta Dimensionalidade](https://github.com/jesyavl/ML02_reducao_dimensionalidade)
 
