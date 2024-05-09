@@ -1,7 +1,10 @@
-<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://github.com/jesyavl/jesyavl/assets/159136515/acb1faf1-beec-457d-a4a4-c66a610a014c"/>
-&nbsp;&nbsp;&nbsp;
+<!--título-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hello, World!</h1></summary>
+</div>
 
-Olá, eu sou a Jésya!
+Eu sou a Jésya!
 - Atualmente estou estudando Ciência de Dados na ADA pelo programa Santander Coders
 - Estou em busca da primeira oportunidade de emprego na área
 
