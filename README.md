@@ -1,12 +1,7 @@
-<!--título-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hello World</h1></summary>
-</div>
+<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://github.com/jesyavl/jesyavl/assets/159136515/acb1faf1-beec-457d-a4a4-c66a610a014c"/>
+&nbsp;&nbsp;&nbsp;
 
-
-
-Olá, eu sou a Jésya! Uma apaixonada estudante de Ciência de Dados.
+Olá, eu sou a Jésya!
 - Atualmente estou estudando Ciência de Dados na ADA pelo programa Santander Coders
 - Estou em busca da primeira oportunidade de emprego na área
 
@@ -20,22 +15,25 @@ Olá, eu sou a Jésya! Uma apaixonada estudante de Ciência de Dados.
 - Sou altamente focada e estou constantemente em busca de oportunidades para aprimorar meu conhecimento.
 </details>
 
+## Contato
 <!-- Links -->
-[![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jesyav.delima@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jesyavl/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesyadelima/)
+![Static Badge](https://img.shields.io/badge/INSTAGRAM-20232A?style=for-the-badge&logo=instagram&logoColor=20232A&labelColor=61DAFB&link=https%3A%2F%2Fwww.instagram.com%2Fjesyavl%2F)
+![Static Badge](https://img.shields.io/badge/LINKEDIN-20232A?style=for-the-badge&logo=linkedin&logoColor=20232A&labelColor=61DAFB&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjesyadelima%2F)
+
 
 ## Stats
 <!-- GithubStats -->
 <div align="center">
   
-![](https://github-readme-stats.vercel.app/api?username=jesyavl&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jesyavl&theme=react&hide_border=false)<br/>
+ </div>
 
 </div>
 
-<!-- Portfolio -->
-## Portfolio:
+<!-- Portfólio -->
+## Portfólio
 - [Python - Machine Learning](https://github.com/jesyavl/ML01_telecon_churn)
 - [Python - Desafios na Análise de Dados de Alta Dimensionalidade](https://github.com/jesyavl/ML02_reducao_dimensionalidade)
 
@@ -43,9 +41,10 @@ Olá, eu sou a Jésya! Uma apaixonada estudante de Ciência de Dados.
 <!-- Skills: Linguagem de programação -->
   <div style="flex-basis: 48%;">
     <h3>Linguagem de programação</h3>
-    <img align="center" alt="SQL" height="30" width="35" 
-src="https://github.com/jesyavl/jesyavl/assets/159136515/55a50ca9-38ad-40d5-b230-1afefce813b4">
-    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="center" alt="Python" src="https://img.shields.io/badge/PYTHON-20232A?style=for-the-badge&logo=python&logoColor=20232A&labelColor=61DAFB">
+    <img align="center" alt="SQL" src="https://img.shields.io/badge/SQL-20232A?style=for-the-badge&logo=mysql&logoColor=20232A&labelColor=61DAFB">
+
+  
 
   </div>
   
@@ -53,30 +52,29 @@ src="https://github.com/jesyavl/jesyavl/assets/159136515/55a50ca9-38ad-40d5-b230
   <!-- Skills: Ferramentas -->
   <div style="flex-basis: 48%;">
     <h3>Ferramentas</h3>
-    <img align="center" alt="Js" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg">
-    <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-    <img align="center" alt="Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg">
-    <img align="center" alt="Chris-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-    <img align="center" alt="Js" height="30" width="32" src="https://github.com/jesyavl/jesyavl/assets/159136515/5e74fff1-6627-49ff-ac22-10f2578571e3">
-    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-    <img align="center" alt="Js" height="30" width="32" src="https://mailmeteor.com/logos/assets/PNG/Microsoft_Office_Excel_Logo_256px.png">
+    <img align="center" alt="PowerBI" src="https://img.shields.io/badge/Power%20BI-20232A?style=for-the-badge&logo=powerbi&logoColor=20232A&labelColor=61DAFB">
+    <img align="center" alt="VScode" src="https://img.shields.io/badge/VSCODE-20232A?style=for-the-badge&logo=visual%20studio%20code&logoColor=20232A&labelColor=61DAFB">
+    <img align="center" alt="Jupyter" src="https://img.shields.io/badge/JUPYTER-20232A?style=for-the-badge&logo=jupyter&logoColor=20232A&labelColor=61DAFB">
+    <img align="center" alt="Github" src="https://img.shields.io/badge/GITHUB-20232A?style=for-the-badge&logo=github&logoColor=20232A&labelColor=61DAFB">
+    <img align="center" alt="MySQL" src="https://img.shields.io/badge/MYSQL-20232A?style=for-the-badge&logo=Mysql&logoColor=20232A&labelColor=61DAFB">
+    <img align="center" alt="SQL Server" src="https://img.shields.io/badge/SQL%20SERVER-20232A?style=for-the-badge&logo=Microsoft%20SQL%20Server&logoColor=20232A&labelColor=61DAFB">
+    <img align="center" alt="Excel" src="https://img.shields.io/badge/EXCEL-20232A?style=for-the-badge&logo=microsoft%20excel&logoColor=20232A&labelColor=61DAFB">
+    <img align="center" alt="Trello" src="https://img.shields.io/badge/TRELLO-20232A?style=for-the-badge&logo=trello&logoColor=20232A&labelColor=61DAFB">
   </div>
 
   
   <!-- Skills: Bibliotecas -->
   <div style="flex-basis: 48%;">
     <h3>Libraries</h3>
-    <img align="center" alt="Numpy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
-    <img align="center" alt="Pandas" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-    <img align="center" alt="Seaborn" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
-    <img align="center" alt="Scikit-learn" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
+    <img align="center" alt="Numpy" src="https://img.shields.io/badge/NUMPY-20232A?style=for-the-badge&logo=numpy&logoColor=20232A&labelColor=61DAFB">
+    <img align="center" alt="Pandas" src="https://img.shields.io/badge/PANDAS-20232A?style=for-the-badge&logo=pandas&logoColor=20232A&labelColor=61DAFB">
+    <img align="center" alt="Scikit-learn" src="https://img.shields.io/badge/SKLEARN-20232A?style=for-the-badge&logo=Scikit-learn&logoColor=20232A&labelColor=61DAFB">
+      
   </div>
 
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=jesyavl.jesyavl&"  />
 </div>
 
 
-</div>
+
+
 
