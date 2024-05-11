@@ -67,7 +67,7 @@ Eu sou a Jésya!
   
   <!-- Skills: Bibliotecas -->
   <div style="flex-basis: 48%;">
-    <h3>Bicliotecas</h3>
+    <h3>Bibliotecas</h3>
 
 ![Static Badge](https://img.shields.io/badge/NUMPY-20232A?style=for-the-badge&logo=numpy&logoColor=white&labelColor=%23013243&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjesyadelima%2F)
 ![Static Badge](https://img.shields.io/badge/PANDAS-20232A?style=for-the-badge&logo=pandas&logoColor=white&labelColor=%23150458&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjesyadelima%2F)
