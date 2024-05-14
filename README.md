@@ -24,7 +24,7 @@ Eu sou a Jésya!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesyadelima/)
 
 
-### Stats
+### Estatística do perfil
 <!-- GithubStats -->
 <div align="center">
   
@@ -35,13 +35,14 @@ Eu sou a Jésya!
 
 <!-- Portfólio -->
 ### Portfólio
-- [Python - Machine Learning](https://github.com/jesyavl/ML01_telecon_churn)
-- [Python - Desafios na Análise de Dados de Alta Dimensionalidade](https://github.com/jesyavl/ML02_reducao_dimensionalidade)
+- [Python - Antecipando o Churn: Análise Preditiva de Rotatividade de Clientes em Telecomunicações](https://github.com/jesyavl/ML01_telecon_churn)
+- [Python - Diagnóstico de Câncer: Desafios na Análise de Dados de Alta Dimensionalidade](https://github.com/jesyavl/ML02_reducao_dimensionalidade)
+- [Python - Estudo de Machine Learning sobre Acidentes de Trânsito nas Rodovias Federais do Brasil](https://github.com/jesyavl/ADAPR5/blob/main/ada_project_ml_i/notebooks/AdaPr5.ipynb)
 
-### Skills
+### Habilidades
   <!-- Skills: Linguagem de programação -->
   <div style="flex-basis: 48%;">
-    <h3>Linguagens de programação</h3>
+    <h4>Linguagens de programação</h4>
     
 ![Static Badge](https://img.shields.io/badge/PYTHON-20232A?style=for-the-badge&logo=power%20bi&logoColor=white&labelColor=%233776AB&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjesyadelima%2F)
 ![Static Badge](https://img.shields.io/badge/SQL-20232A?style=for-the-badge&logo=mysql&logoColor=white&labelColor=%234479A1&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjesyadelima%2F)
@@ -51,7 +52,7 @@ Eu sou a Jésya!
 
   <!-- Skills: Ferramentas -->
   <div style="flex-basis: 48%;">
-    <h3>Ferramentas</h3>
+    <h4>Ferramentas</h4>
     
 ![Static Badge](https://img.shields.io/badge/POWER%20BI-20232A?style=for-the-badge&logo=power%20bi&logoColor=white&labelColor=%23F2C811&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjesyadelima%2F)
 ![Static Badge](https://img.shields.io/badge/VSCODE-20232A?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&labelColor=%23007ACC&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjesyadelima%2F)
@@ -67,7 +68,7 @@ Eu sou a Jésya!
   
   <!-- Skills: Bibliotecas -->
   <div style="flex-basis: 48%;">
-    <h3>Bibliotecas</h3>
+    <h4>Bibliotecas</h4>
 
 ![Static Badge](https://img.shields.io/badge/NUMPY-20232A?style=for-the-badge&logo=numpy&logoColor=white&labelColor=%23013243&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjesyadelima%2F)
 ![Static Badge](https://img.shields.io/badge/PANDAS-20232A?style=for-the-badge&logo=pandas&logoColor=white&labelColor=%23150458&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjesyadelima%2F)
