@@ -14,17 +14,17 @@ Eu sou a Jésya!
 
 - Tenho 29 anos e atualmente moro em Pernambuco, porém estou aberta a oportunidades que envolvam mudança de localidade
 - Possuo experiência em SQL, Python, Análise e Visualização de Dados e Machine Learning
-- Além disso, sou graduada em Engenharia Civil pela UFPE e acumulei experiência como Gerente de Projetos, o que me proporcionou o desenvolvimento de habilidades essenciais, como comunicação eficaz, gestão de equipes e capacidade de adaptação e analítica
+- Sou graduada em Engenharia Civil pela UFPE e acumulei experiência como Gerente de Projetos, o que me proporcionou o desenvolvimento de habilidades essenciais, como comunicação eficaz, gestão de equipes e capacidade de adaptação e analítica
 - Sou altamente focada e estou constantemente em busca de oportunidades para aprimorar meu conhecimento
 </details>
 
-## Contato
+### Contato
 <!-- Links -->
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jesyavl/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesyadelima/)
 
 
-## Stats
+### Stats
 <!-- GithubStats -->
 <div align="center">
   
@@ -34,11 +34,11 @@ Eu sou a Jésya!
 </div>
 
 <!-- Portfólio -->
-## Portfólio
+### Portfólio
 - [Python - Machine Learning](https://github.com/jesyavl/ML01_telecon_churn)
 - [Python - Desafios na Análise de Dados de Alta Dimensionalidade](https://github.com/jesyavl/ML02_reducao_dimensionalidade)
 
-## Skills
+### Skills
   <!-- Skills: Linguagem de programação -->
   <div style="flex-basis: 48%;">
     <h3>Linguagens de programação</h3>
