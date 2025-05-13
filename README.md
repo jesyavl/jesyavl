@@ -35,7 +35,7 @@ Eu sou a Jésya!
 <!-- Portfólio -->
 ### Portfólio
 - [Power BI - Dashboard de Logística: Comercio Exterior](https://app.powerbi.com/view?r=eyJrIjoiNDdmNzJkODctYzJmMi00MTZlLTgyYTgtMzE0ZjVmMmQ3MmRjIiwidCI6Ijk4MWFjOTc3LWM0MDItNDczMS1iNzA1LTA3NmZmMjc3YTg0MCJ9)
-- [Power BI - Dashboard de Vendas: Loja de Eletro](https://app.powerbi.com/view?r=eyJrIjoiYWRhMjZhYTItZjcyNC00Zjk2LTkzMTYtM2EzZjk2YWUyYmRkIiwidCI6Ijk4MWFjOTc3LWM0MDItNDczMS1iNzA1LTA3NmZmMjc3YTg0MCJ9)
+- [Power BI - Dashboard de Vendas: Loja de Eletro](https://app.powerbi.com/view?r=eyJrIjoiMzU2MzE2MWItNTJiMS00NjQwLWFjNzEtNzVmOTdhMDY5MDNhIiwidCI6Ijk4MWFjOTc3LWM0MDItNDczMS1iNzA1LTA3NmZmMjc3YTg0MCJ9)
 - [Python - Predição de Preços Imobiliários Utilizando Regressão Linear com Spark](https://github.com/jesyavl/spark_ml_regressao/blob/main/spark_regressao_imoveis.ipynb)
 - [Python - Antecipando o Churn: Análise Preditiva de Rotatividade de Clientes em Telecomunicações](https://github.com/jesyavl/ML01_telecon_churn)
 - [Python - Diagnóstico de Câncer: Desafios na Análise de Dados de Alta Dimensionalidade](https://github.com/jesyavl/ML02_reducao_dimensionalidade)
